@@ -1,0 +1,14 @@
+server:
+  port: 8089
+
+spring:
+  profiles:
+#    environment(3) eka define karannath gannawa
+#    development- application-dev.yml
+#    production
+#
+
+    active: native
+#    git hub repo ekaka config files dla eka haraha fetch karanawa config files
+#     default get tynne
+#     native - eka off karala local envirement ekn denawa
